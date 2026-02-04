@@ -1,7 +1,7 @@
 # 📊 Análisis Exploratorio de Datos: Telco Customer Churn
 
 ## 📝 Descripción del Proyecto
-Este proyecto es una aplicación interactiva desarrollada en **Python** con **Streamlit**
+Este proyecto es una aplicación interactiva desarrollada en **Python** con **Streamlit**. 
 Su objetivo principal es analizar, limpiar y visualizar los datos del dataset `TelcoCustomerChurn.csv` para identificar patrones clave asociados a la fuga de clientes. 
 
 A diferencia de un modelo predictivo, este enfoque se centra en la **estadística descriptiva** y la **toma de decisiones estratégica** basándose en el comportamiento histórico de los usuarios.
