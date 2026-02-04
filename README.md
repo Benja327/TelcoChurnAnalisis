@@ -7,9 +7,9 @@ Su objetivo principal es analizar, limpiar y visualizar los datos del dataset `T
 A diferencia de un modelo predictivo, este enfoque se centra en la **estadística descriptiva** y la **toma de decisiones estratégica** basándose en el comportamiento histórico de los usuarios.
 
 ### Características principales:
-**Programación Orientada a Objetos (POO):** Uso de clases para el procesamiento y análisis de datos.
-**Interfaz Profesional:** Navegación mediante `sidebar`, hallasgos por `info` y uso de `dataframes`.
-**Visualización Avanzada:** Gráficos desarrollados con **Matplotlib** y **Seaborn**.
+- **Programación Orientada a Objetos (POO):** Uso de clases para el procesamiento y análisis de datos.
+- **Interfaz Profesional:** Navegación mediante `sidebar`, hallasgos por `info` y uso de `dataframes`.
+- **Visualización Avanzada:** Gráficos desarrollados con **Matplotlib** y **Seaborn**.
 
 ---
 
