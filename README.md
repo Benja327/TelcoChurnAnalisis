@@ -37,7 +37,7 @@ streamlit run app.py
 - Vista Previa de los análisis
 ![](https://i.imgur.com/wyVdkt2.png)
 
-##📝 Links
+## 📝 Links
 - Aplicativo en Streamlit: https://yzf8mvhf58wwqq2ileptqk.streamlit.app/
 - Comenzar despliegue en Streamlit: https://streamlit.io/
 - Documentacion Pandas: https://pandas.pydata.org/docs/
