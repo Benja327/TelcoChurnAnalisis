@@ -459,9 +459,9 @@ elif menu == "Módulo 2: Carga de Datos":
             st.write(
                """
                 * **1. Contratos Mensuales:** Los clientes con contratos *Month-to-month* presentan el mayor ratio de Churn. Se recomienda incentivar migraciones a planes mediante descuentos progresivos.
-                * **2. Etapa Crítica de Lealtad:** La probabilidad de abandono es mayor durante los primeros **12 meses** de permanencia (*tenure*). Es vital priorizar campañas de babysitting (bienvenida) para asegurar el valor de vida del cliente (LTV).
-                * **3. Sensibilidad al Precio:** Quienes abandonan suelen tener cargos mensuales (*MonthlyCharges*) por encima del promedio. Se sugiere mejorar la percepción de valor en planes premium antes de considerar bajas de precio.
+                * **2. Riesgo en la Permanencia:** La probabilidad de Churn es mayor durante los primeros **12 meses** de permanencia (*tenure*). Es vital priorizar campañas de babysitting (bienvenida) para asegurar permanencia en el cliente.
+                * **3. Sensibilidad al Precio:** Clientes que poseen cargos mensuales (*MonthlyCharges*) por encima del promedio generan mayor Churn. Se sugiere mejorar los beneficios de planes para mantener retenido al cliente.
                 * **4. Calidad en Fibra Óptica:** Existe una fuga atípica en usuarios de Fibra Óptica. Se requiere una revisión técnica de las instalaciones para validar y solucionar los problemas con este tipo de fibra.
-                * **5. Agrupar Planes:** Se puede generar un segmento de cliente que posea servicios móviles y fijos a la vez y brindarles descuentos para poder blindarlos de la competencia.
+                * **5. Agrupación de Servicios:** Se puede generar un segmento de cliente que posea servicios móviles y fijos a la vez y brindarles descuentos para poder blindarlos de la competencia.
                 """)
         
